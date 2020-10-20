@@ -10,6 +10,7 @@ import threading
 
 from airtest import aircv
 
+
 INTERVAL = 0.05
 FPS = 10
 
